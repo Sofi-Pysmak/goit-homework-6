@@ -506,9 +506,10 @@ button {
   border: 1px solid var(--icon-gray-color);
   border-radius: 4px;
   fill: var(--icon-gray-color);
-  transition:;
-  border-color var(--timing-function--);
-  }
+  transition:var(--timing-function);
+
+
+}
 
 .clients-list .item:hover.icon,
 .clients-list .item:hover.item {
